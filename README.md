@@ -11,9 +11,9 @@
  <div style = "display: inline_block">
     <img align="center" alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Typescript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Ruby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+    <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Spring" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Spring" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
     <img align="center" alt="Postgresql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  </div>
